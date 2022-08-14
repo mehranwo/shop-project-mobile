@@ -1,0 +1,14 @@
+.footer{
+    max-width: 420px;
+    width: 90%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 5px;
+    left: 50%;
+    border-radius: 30px;
+    transform: translate(-50%);
+    background-color: white;
+}

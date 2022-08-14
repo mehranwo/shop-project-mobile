@@ -1,0 +1,43 @@
+.icon{
+    transition: all 0.5s;
+    color: #fba8b2;
+    display: flex;
+}
+.background{
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.dark{
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5d5d5d;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.active{
+    transition: all 0.5s;
+    font-size: 25px;
+    color: white;
+}
+
+.inPage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+    background-image: linear-gradient(#ff9aa6,#fba8b2,#ff7787);
+    padding: 5px;
+    border-radius:50% ;
+    color: rgb(133, 133, 133);
+    font-size: 25px;
+}

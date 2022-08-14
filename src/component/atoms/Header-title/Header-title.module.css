@@ -1,0 +1,19 @@
+.username{
+    font-size:12px;
+    color: #979797;
+    font-weight: 400;
+}
+
+.title{
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+}
+
+.headerTitle{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    align-items: center;
+    justify-content: center;
+}

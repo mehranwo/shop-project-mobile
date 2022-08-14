@@ -1,0 +1,23 @@
+.searchbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    gap: 10px;
+    width: 100%;
+}
+
+.input{
+    border: none;
+    outline: none;
+    height: 30px;
+}
+
+.inputbox{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    flex: 1;
+    border-radius: 10px;
+    padding: 2px ;
+}

@@ -1,0 +1,29 @@
+.productImage{
+    height: 70%;
+    width: 100%;
+}
+.card{
+    height: 100%;
+    width: 40%;
+}
+
+.text{
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.icon{
+    flex: 1;
+}
+
+.detail{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+

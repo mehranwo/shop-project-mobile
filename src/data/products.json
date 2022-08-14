@@ -1,0 +1,46 @@
+[
+  {
+    "id" : 1,
+    "src": "./asset/image1.jpg",
+    "title": "Casual V-neck",
+    "detail": "Casual V-neck",
+    "prize": "$129.03",
+    "count" : 0,
+    "stock": 4,
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt nihil corrupti culpa vel aperiam, quisquam similique hic modi accusamus itaque.",
+    "favourite" : false
+  },
+  {
+    "id": 2,
+    "src": "./asset/image2.jpg",
+    "title": "Casual T-Shirt",
+    "detail": "Casual V-neck",
+    "prize": "$110.23",
+    "count" : 0,
+    "stock": 3,
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt nihil corrupti culpa vel aperiam, quisquam similique hic modi accusamus itaque.",
+    "favourite": false
+  },
+  {
+    "id": 3,
+    "src": "./asset/image3.jpg",
+    "title": "Casual V-neck",
+    "detail": "Casual V-neck",
+    "prize": "$93.47",
+    "count" : 0,
+    "stock": 2,
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt nihil corrupti culpa vel aperiam, quisquam similique hic modi accusamus itaque.",
+    "favourite" : false
+  },
+  {
+    "id": 4,
+    "src": "./asset/image4.jpg",
+    "title": "Casual T-Shirt",
+    "detail": "Casual V-neck",
+    "prize": "$56.83",
+    "count" : 0,
+    "stock": 5,
+    "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt nihil corrupti culpa vel aperiam, quisquam similique hic modi accusamus itaque.",
+    "favourite" : false
+  }
+]
